@@ -1,3 +1,4 @@
+//Nextjs and Link uses client side nav, code splitting and prefetching
 import React from "react"
 import Link from 'next/link';
 
