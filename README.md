@@ -10,7 +10,9 @@
     - CSS Modules
   - Global Styles
   - Utility CSS 
-
+- Pre-rendering and Data Fetching
+  - Static Generation vs Server Side Rendering
+  - Using Static Generation (getStaticProps())
 
 
 # Some of the advantages of Next.js
