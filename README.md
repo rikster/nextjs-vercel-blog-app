@@ -12,7 +12,13 @@
   - Utility CSS 
 - Pre-rendering and Data Fetching
   - Static Generation vs Server Side Rendering
-  - Using Static Generation (getStaticProps())
+    - Using Static Generation (getStaticProps()) 
+      - note, not dynamic - therefore used at build time
+  - Fetching Data at Request Time
+    - Using getServerSideProps 
+    - Client Side Rendering
+    - SWR
+- Dynamic Routes
 
 
 # Some of the advantages of Next.js
