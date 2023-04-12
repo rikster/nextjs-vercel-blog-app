@@ -19,6 +19,7 @@
     - Client Side Rendering
     - SWR
 - Dynamic Routes
+  - Render Markdown
 
 
 # Some of the advantages of Next.js
