@@ -20,6 +20,10 @@
     - SWR
 - Dynamic Routes
   - Render Markdown
+    - Implement getStaticPaths
+    -  Implement getStaticProps
+-  API Routes
+   -  Creating a simle route (~/pages/api/*.*)
 
 
 # Some of the advantages of Next.js
